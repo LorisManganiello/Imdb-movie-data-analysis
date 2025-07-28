@@ -1,6 +1,6 @@
 ![Python](https://img.shields.io/badge/python-v3.9-blue.svg)
 ![Status](https://img.shields.io/badge/status-complete-green.svg)
-![Imdb Data Analysis](https://img.shields.io/badge/Netflix-Data%20Analysis-yellow.svg)
+![Imdb Data Analysis](https://img.shields.io/badge/IMBD-Data%20Analysis-yellow.svg)
 
 # IMDb Movie Data Analysis
 
