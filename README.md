@@ -30,6 +30,15 @@ Mostrare le competenze fondamentali in Data Analysis: pulizia, visualizzazione, 
 - `README.md`: questa descrizione
 - `imdb_raw`: dati grezzi scaricati da kaggle
 
+## Esempio di visualizzazione
+![Correlazioni](Corr.png)
+ **Grafico delle correlazioni**
+## Film con maggiori incassi
+- Star Wars: Episode VII - The Force Awakens
+- Avengers: Endgame
+- Spider-Man: No Way Home	
+
 Il progetto è stato realizzato come esercizio personale di analisi dati.
+
 
 ~ Loris Manganiello
